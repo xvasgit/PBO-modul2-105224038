@@ -1,4 +1,4 @@
-public class pretest {
+public class App {
     public static void main(String[] args) throws Exception {
         String nama = "Erlangga Aditya Permana";
         int NIM = 105224038;
